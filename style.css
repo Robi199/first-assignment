@@ -2,8 +2,25 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: o;
 }
+.welcome{
+    text-align: center;
+    border: 5px solid red;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-radius: 25px;
+    background-image: linear-gradient(rgb(218, 70, 25), red);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.food{
+    padding-left: 60%;
+    font-size: x-large;
+    text-shadow: 3px 3px blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 .eye-catching{
     color: goldenrod;
+    
 }
 .container{
     display: flex;
@@ -52,7 +69,7 @@ div img{
     width: 60%;
 }
 .second-pic{
-    width: 30%;
+    width: 25%;
     padding-left: 20%;
 }
 .recipies{
@@ -60,10 +77,11 @@ div img{
     color: gray;
     margin-left: 20%;
     margin-right: 20%;
+    
 }
 .recipie-pic-border{
     width: 300px;
-    height: 200px;
+    height: 150px;
     
     border-radius: 20px;
     padding-left: 5%;
@@ -76,7 +94,7 @@ div img{
 .recipie-item{
     border: 2px solid gray;
     border-radius: 10px;
-    margin-top: 10px;
+    margin-top: 5%;
     margin-bottom: 10px;
     margin-left:5%;
     margin-right:5%;
@@ -95,16 +113,16 @@ img{
 }
 .review-part{
     width: 30%;
-    padding-left: 60px;
-    padding-right: 10px;
+    padding-left: 10%;
+    padding-right: 10%;
     
 }
 #review-border{
     
     
-    
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
     box-shadow: 4px 4px 10px gray;
 }
 .add-footer{
