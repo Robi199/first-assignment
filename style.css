@@ -7,14 +7,10 @@ font-family: 'Oswald', sans-serif;
 }
 .welcome{
     text-align: center;
-    border: 2px solid rgb(219, 76, 76);
-    margin-left: 30%;
-    margin-right: 35%;
-    margin-top: 5%;
-    border-radius: 25px;
-    background-image: linear-gradient(rgb(236, 120, 85), rgb(235, 93, 93));
-    color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(226, 26, 19);
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 2px 2px 5px purple;
 }
 .food{
     padding-left: 60%;
